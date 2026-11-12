@@ -30,11 +30,11 @@ detail   : token #1 (sol output line 1): expected '-3', got '0'
 ## Install
 
 ```text
-/plugin marketplace add R8Ki0xx/algorithm-mcp
+/plugin marketplace add R8Ki0xx/duipai
 /plugin install duipai@duipai
 ```
 
-Or from a local clone: `/plugin marketplace add /path/to/algorithm-mcp`.
+Or from a local clone: `/plugin marketplace add /path/to/duipai`.
 You can also copy `skills/duipai/` into `~/.claude/skills/` to use it as a plain skill.
 
 Requirements: Python ≥ 3.8, and `g++` or `clang++` for C/C++
@@ -119,11 +119,11 @@ Windows、macOS、Linux 通用 · 用中文或英文提问都可以。
 ### 安装
 
 ```text
-/plugin marketplace add R8Ki0xx/algorithm-mcp
+/plugin marketplace add R8Ki0xx/duipai
 /plugin install duipai@duipai
 ```
 
-本地克隆也可以：`/plugin marketplace add /path/to/algorithm-mcp`。
+本地克隆也可以：`/plugin marketplace add /path/to/duipai`。
 也可以直接把 `skills/duipai/` 复制到 `~/.claude/skills/` 当普通 skill 使用。
 
 依赖：Python ≥ 3.8；C/C++ 需要 `g++` 或 `clang++`
