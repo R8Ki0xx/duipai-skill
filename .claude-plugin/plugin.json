@@ -1,0 +1,20 @@
+{
+  "name": "duipai",
+  "version": "1.0.0",
+  "description": "对拍 / stress testing for competitive programming: auto-writes a brute force, a random data generator and a compare loop, then finds and explains a minimal counterexample for your WA / RE / TLE (Codeforces, AtCoder, LeetCode, 蓝桥杯, ICPC). C++ and Python.",
+  "author": {
+    "name": "R8Ki0xx"
+  },
+  "license": "MIT",
+  "keywords": [
+    "competitive-programming",
+    "stress-test",
+    "duipai",
+    "对拍",
+    "codeforces",
+    "leetcode",
+    "icpc",
+    "brute-force",
+    "counterexample"
+  ]
+}
